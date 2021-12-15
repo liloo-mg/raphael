@@ -94,6 +94,7 @@
   display: block;
   position: absolute;
   bottom: -15px;
+  left: 42px;
   right: 0;
   border-top: 15px solid var(--rose);
   border-right: 15px solid transparent;

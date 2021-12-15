@@ -16,7 +16,7 @@ function config($key = '')
         'nav_menu' => [
             '' => 'Accueil',
             // 'profil' => 'Profil',
-            'les-hotesses-sexy-du-telephone-rose' => 'Profil',
+            'les-hotesses-sexy-du-telephone-rose' => 'Profils des hôtesses',
             'histoire' => 'Histoire',
             'blog' => 'Blog',
         ],
